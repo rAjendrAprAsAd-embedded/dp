@@ -10,8 +10,8 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 int main()
 {
-    char a[]="rajendra";
-    char b[]="prasad";
+    char a[]="rajendra";//abcdaf
+    char b[]="prasad";//acbcf
     int n1=strlen(a);
     int n2=strlen(b);
     int z[n2+1][n1+1];
